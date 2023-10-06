@@ -13,8 +13,11 @@ public class FilmeController : ControllerBase
     public void AdicionaFilme([FromBody] Filme filme)
     {
         filmes.Add(filme);
-        Console.WriteLine(filme.Titulo);
-        Console.WriteLine(filme.Genero);
-        Console.WriteLine(filme.Duracao);
+        if(!string.IsNullOrEmpty(filme.Titulo) && !string.IsNullOrEmpty(filme.Genero)&& filme.Duracao >= 2000)
+        {
+            Console.WriteLine(filme.Titulo);
+            Console.WriteLine(filme.Genero);
+            Console.WriteLine(filme.Duracao);
+        }
     }
 }

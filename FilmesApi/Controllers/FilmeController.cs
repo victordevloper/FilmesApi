@@ -20,4 +20,9 @@ public class FilmeController : ControllerBase
             Console.WriteLine(filme.Duracao);
         }
     }
+
+    public List<Filme> CapturarFilmes()
+    {
+        return Filme;
+    }
 }

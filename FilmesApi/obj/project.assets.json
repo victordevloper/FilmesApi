@@ -437,19 +437,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Victor\\.nuget\\packages\\": {}
+    "C:\\Users\\Gothellsz\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projetos\\Desenvolvimento Web e dev\\FilmesApi\\FilmesApi\\FilmesApi.csproj",
+      "projectUniqueName": "F:\\Projetos\\Web\\FilmesApi\\FilmesApi.csproj",
       "projectName": "FilmesApi",
-      "projectPath": "D:\\Projetos\\Desenvolvimento Web e dev\\FilmesApi\\FilmesApi\\FilmesApi.csproj",
-      "packagesPath": "C:\\Users\\Victor\\.nuget\\packages\\",
-      "outputPath": "D:\\Projetos\\Desenvolvimento Web e dev\\FilmesApi\\FilmesApi\\obj\\",
+      "projectPath": "F:\\Projetos\\Web\\FilmesApi\\FilmesApi.csproj",
+      "packagesPath": "C:\\Users\\Gothellsz\\.nuget\\packages\\",
+      "outputPath": "F:\\Projetos\\Web\\FilmesApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Victor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Gothellsz\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

@@ -21,8 +21,9 @@ public class FilmeController : ControllerBase
         }
     }
 
-    public List<Filme> CapturarFilmes()
+    [HttpGet]
+    public IEnumerable<Filme> CapturarFilmes()
     {
-        return Filme;
+        return filmes;
     }
 }

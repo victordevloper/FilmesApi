@@ -3,6 +3,8 @@
 namespace FilmesApi.Models;
 public class Filme
 {
+    public int Id { get; internal set; }
+
     [Required (ErrorMessage = "O titulo é obrigatório")]
     public string? Titulo { get; set; }
     [Required(ErrorMessage = "O Genero é obrigatório")]

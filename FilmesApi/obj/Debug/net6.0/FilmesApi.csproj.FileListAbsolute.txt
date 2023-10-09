@@ -30,3 +30,35 @@ D:\Projetos\Desenvolvimento Web e dev\FilmesApi\FilmesApi\obj\Debug\net6.0\refin
 D:\Projetos\Desenvolvimento Web e dev\FilmesApi\FilmesApi\obj\Debug\net6.0\FilmesApi.pdb
 D:\Projetos\Desenvolvimento Web e dev\FilmesApi\FilmesApi\obj\Debug\net6.0\FilmesApi.genruntimeconfig.cache
 D:\Projetos\Desenvolvimento Web e dev\FilmesApi\FilmesApi\obj\Debug\net6.0\ref\FilmesApi.dll
+F:\Projetos\Web\FilmesApi\bin\Debug\net6.0\appsettings.Development.json
+F:\Projetos\Web\FilmesApi\bin\Debug\net6.0\appsettings.json
+F:\Projetos\Web\FilmesApi\bin\Debug\net6.0\FilmesApi.exe
+F:\Projetos\Web\FilmesApi\bin\Debug\net6.0\FilmesApi.deps.json
+F:\Projetos\Web\FilmesApi\bin\Debug\net6.0\FilmesApi.runtimeconfig.json
+F:\Projetos\Web\FilmesApi\bin\Debug\net6.0\FilmesApi.dll
+F:\Projetos\Web\FilmesApi\bin\Debug\net6.0\FilmesApi.pdb
+F:\Projetos\Web\FilmesApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\Projetos\Web\FilmesApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Projetos\Web\FilmesApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Projetos\Web\FilmesApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Projetos\Web\FilmesApi\obj\Debug\net6.0\FilmesApi.csproj.AssemblyReference.cache
+F:\Projetos\Web\FilmesApi\obj\Debug\net6.0\FilmesApi.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projetos\Web\FilmesApi\obj\Debug\net6.0\FilmesApi.AssemblyInfoInputs.cache
+F:\Projetos\Web\FilmesApi\obj\Debug\net6.0\FilmesApi.AssemblyInfo.cs
+F:\Projetos\Web\FilmesApi\obj\Debug\net6.0\FilmesApi.csproj.CoreCompileInputs.cache
+F:\Projetos\Web\FilmesApi\obj\Debug\net6.0\FilmesApi.MvcApplicationPartsAssemblyInfo.cs
+F:\Projetos\Web\FilmesApi\obj\Debug\net6.0\FilmesApi.MvcApplicationPartsAssemblyInfo.cache
+F:\Projetos\Web\FilmesApi\obj\Debug\net6.0\staticwebassets\msbuild.FilmesApi.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Projetos\Web\FilmesApi\obj\Debug\net6.0\staticwebassets\msbuild.build.FilmesApi.props
+F:\Projetos\Web\FilmesApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.FilmesApi.props
+F:\Projetos\Web\FilmesApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.FilmesApi.props
+F:\Projetos\Web\FilmesApi\obj\Debug\net6.0\staticwebassets.pack.json
+F:\Projetos\Web\FilmesApi\obj\Debug\net6.0\staticwebassets.build.json
+F:\Projetos\Web\FilmesApi\obj\Debug\net6.0\staticwebassets.development.json
+F:\Projetos\Web\FilmesApi\obj\Debug\net6.0\scopedcss\bundle\FilmesApi.styles.css
+F:\Projetos\Web\FilmesApi\obj\Debug\net6.0\FilmesApi.csproj.CopyComplete
+F:\Projetos\Web\FilmesApi\obj\Debug\net6.0\FilmesApi.dll
+F:\Projetos\Web\FilmesApi\obj\Debug\net6.0\refint\FilmesApi.dll
+F:\Projetos\Web\FilmesApi\obj\Debug\net6.0\FilmesApi.pdb
+F:\Projetos\Web\FilmesApi\obj\Debug\net6.0\FilmesApi.genruntimeconfig.cache
+F:\Projetos\Web\FilmesApi\obj\Debug\net6.0\ref\FilmesApi.dll

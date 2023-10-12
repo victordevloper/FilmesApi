@@ -9,7 +9,6 @@ namespace FilmesApi.Data
         {
             
         }   
-
         public DbSet <Filme> filmes { get; set; }
     }
 }

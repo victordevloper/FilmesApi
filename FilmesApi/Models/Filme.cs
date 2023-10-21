@@ -5,7 +5,6 @@ public class Filme
 {
     [Key]
     [Required]
-
     public int Id { get; internal set; }
     [Required (ErrorMessage = "O titulo é obrigatório")]
     public string? Titulo { get; set; }
@@ -14,5 +13,4 @@ public class Filme
     [Range(60, 2000, ErrorMessage = "o tamanho da duração não pode exceder 2000")]
     [Required(ErrorMessage = "o tamanho da duração não pode exceder 2000")]
     public int? Duracao { get; set; }
-
 }
